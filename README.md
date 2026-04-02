@@ -41,7 +41,7 @@
 
 📌 [책모](https://github.com/checkmo2025) : 독서 모임 커뮤니티 서비스<sub>(2025.06 ~ 현재)</sub>
 
-📌 [회비영](https://github.com/heavyYoung2) : 학생회 회비 관리 및 운영 자동화 서비스<sub>(2025.03 ~ 현재)</sub>
+📌 [회비영](https://github.com/heavyYoung2) : 학생회 회비 관리 및 운영 자동화 서비스<sub>(2025.03 ~ 2025.12)</sub>
 
 📌 [SeeATheater](https://github.com/SeeATheater/CC_Backend) : 소극장 공연 예매 서비스<sub>(2024.12 ~ 현재)</sub>
 
