@@ -5,7 +5,7 @@
 ### Introduction
 ---
 
-소통을 바탕으로 문제를 구조적으로 해결하는 백엔드 개발자 윤현일입니다.  
+소통을 바탕으로 문제를 구조적으로 해결하는 개발자 윤현일입니다.  
 서비스 전반에서 컴퓨터 공학 지식을 기반으로 안정적인 시스템을 설계합니다.
 
 ### Tech Stack
@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </p>
 
 <p>
@@ -30,7 +32,7 @@
 
 ### Experience
 ---
-
+- [민트기술](https://mintech.kr/)(ICT 인턴십) : Full Stack 개발 인턴 <sub>(2026.03 ~ 2026.06)</sub>
 - [UMC](https://umc.makeus.in/) (대학생 개발 연합 동아리) : 6기 Server 챌린저<sub>(2024.03 ~ 2024.08)</sub>
 - [UMC](https://umc.makeus.in/) (대학생 개발 연합 동아리) : 7기 Server 파트장<sub>(2024.09 ~ 2025.02)</sub>
 - [UMC](https://umc.makeus.in/) (대학생 개발 연합 동아리) : 8기 부회장 및 PLAN 챌린저<sub>(2025.03 ~ 2025.08)</sub>
@@ -38,12 +40,13 @@
 
 ### Projects
 ---
+📌 [안전보건관리시스템 Saas] : 기업 대상 안전보건솔루션 - 인턴십 프로젝트 <sub>(2026.03 ~ 2026.06)</sub>
 
 📌 [책모](https://github.com/checkmo2025) : 독서 모임 커뮤니티 서비스<sub>(2025.06 ~ 현재)</sub>
 
 📌 [회비영](https://github.com/heavyYoung2) : 학생회 회비 관리 및 운영 자동화 서비스<sub>(2025.03 ~ 2025.12)</sub>
 
-📌 [SeeATheater](https://github.com/SeeATheater/CC_Backend) : 소극장 공연 예매 서비스<sub>(2024.12 ~ 현재)</sub>
+📌 [SeeATheater](https://github.com/SeeATheater/CC_Backend) : 소극장 공연 예매 서비스<sub>(2024.12 ~ 2026.02)</sub>
 
 📌 [HUR](https://github.com/HUR-Hongik-UMC-Recruit/Backend) : HIUMC 모집 사이트 <sub>(2024.09 ~ 2025.03)</sub>
 
